@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anne.
 - 👀 I’m interested in programming, music, and education.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Sphinx.
 - 💞️ I’m looking to collaborate on projects related to my interests.
 - 📫 How to reach me: saxmusicology@gmail.com
 
